@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402026785863",
+    "project_id": "cartix-8d777",
+    "storage_bucket": "cartix-8d777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402026785863:android:1c27724584ed7e6db59562",
+        "android_client_info": {
+          "package_name": "com.example.cartix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3y_MXiumDmzr8ICPDg9Mipp8XAzVfYlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
